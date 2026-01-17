@@ -15,6 +15,7 @@ Copy desired skill folders to `~/.claude/skills/` or your project's `.claude/ski
 | `coordinator` | Project context tracking, ADRs, session handoffs |
 | `frontend-dev` | UI/React components with high design quality |
 | `fullstack-dev` | Contract + frontend coordination for synchronized changes |
+| `playwriter` | Browser automation via Chrome extension with Playwright API |
 | `ponder-gen` | Generate Ponder indexer handlers from ABIs |
 | `preflight` | Session startup checklist and context loading |
 | `process-rules` | SOPs, lessons learned, workflow governance |
